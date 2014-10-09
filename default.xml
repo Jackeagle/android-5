@@ -535,9 +535,6 @@
  
   <!-- Vendor Repos -->
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="Co-BeanStalk/android_vendor_tmobile_libs_com.tmobile.themes" revision="kk4.4" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="Co-BeanStalk/android_vendor_tmobile_providers_ThemeManager" revision="kk4.4" /> -->
 
   <!--NEW THEME CHOOSER-->
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" revision="cm-11.0" />
