@@ -15,6 +15,9 @@
   <remote name="cm"
           fetch="git://github.com/CyanogenMod/" />
 
+  <remote name="Co-Beanstalk"
+          fetch="git://github.com/Co-Beanstalk/" />
+
   <remote name="ln"
           fetch="git://android.git.linaro.org/" />
 
@@ -347,7 +350,7 @@
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" groups="pdk" revision="cm-11.0" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" revision="cm-11.0" />
   <project path="external/stressapptest" name="CyanogenMod/android_external_stressapptest" revision="cm-11.0" />
-  <project path="external/stagefright-plugins" name="Co-BeanStalk/android_external_stagefright-plugins" remote="github" revision="kk4.4" />
+  <project path="external/stagefright-plugins" name="Co-BeanStalk/android_external_stagefright-plugins" revision="kk4.4" />
   <project path="external/svox" name="CyanogenMod/android_external_svox" revision="cm-11.0" />
   <project path="external/tinyalsa" name="CyanogenMod/android_external_tinyalsa" groups="pdk" revision="cm-11.0" />
   <project path="external/tinycompress" name="CyanogenMod/android_external_tinycompress" groups="pdk" revision="cm-11.0" />
