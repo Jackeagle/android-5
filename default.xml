@@ -15,9 +15,6 @@
   <remote name="cm"
           fetch="git://github.com/CyanogenMod/" />
 
-  <remote name="Co-Beanstalk"
-          fetch="git://github.com/Co-Beanstalk/" />
-
   <remote name="ln"
           fetch="git://android.git.linaro.org/" />
 
