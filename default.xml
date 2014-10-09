@@ -428,7 +428,7 @@
   <project path="packages/providers/MediaProvider" name="Co-BeanStalk/packages_providers_MediaProvider" revision="kk4.4" />  
   <project path="packages/providers/TelephonyProvider" name="Co-BeanStalk/android_packages_providers_TelephonyProvider" revision="kk4.4" />
   <project path="packages/services/Telephony" name="Co-BeanStalk/android_packages_services_Telephony" revision="kk4.4" />  
-  <project path="vendor/beanstalk" name="Co-BeanStalk/proprietary_vendor_beanstalk" revision="kk4.4" />
+  <project path="vendor/beanstalk" name="Jackeagle/proprietary_vendor_beanstalk" revision="kk4.4" />
     
   <!--Frameworks-->
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
@@ -540,7 +540,7 @@
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" revision="cm-11.0" />
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" revision="cm-11.0" />
   
-  <!--Pimpmaneaton Device repos
+  <!--Pimpmaneaton Device repos -->
   <project name="Co-BeanStalk/android_device_htc_m8" path="device/htc/m8" remote="github" revision="kk4.4" />
   <project name="Co-BeanStalk/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="kk4.4" />
   <project name="DirtyUnicorns-KitKat/android_device_qcom_common" path="device/qcom/common" remote="github" revision="du44" />
